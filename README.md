@@ -1,7 +1,7 @@
 # Data Science Series 
 ## Blogs
 <ol>
-  <li> [Introduction to Web Scrapping Using Python with Beautiful Soup] (https://medium.com/python-in-plain-english/introduction-to-web-scrapping-using-python-7a65c204b)</li>
+  <li> [Introduction to Web Scrapping Using Python with Beautiful Soup](https://medium.com/python-in-plain-english/introduction-to-web-scrapping-using-python-7a65c204b)</li>
   <li>[Data Preprocessing In Python](https://medium.com/python-in-plain-english/introduction-to-data-science-data-preprocessing-in-python-e27301286326)</li>
   <li>[Getting Started With Orange Tool](https://medium.com/geekculture/data-science-series-getting-started-with-orange-tool-1ba74daa41a)</li>
   <li>[Visual Programming Using Orange Tool](https://medium.com/geekculture/data-science-series-visual-programming-using-orange-tool-27addd176448)</li>
@@ -14,4 +14,3 @@
   <li>[How to Predict the Gender and Age Using OpenCV in Python](https://medium.com/python-in-plain-english/data-science-series-gender-and-age-prediction-61098d8e8377)</li>
   <li>[Visualising COVID-19 Data Using Power BI](https://medium.com/@karanpatel20/visualising-covid-19-data-using-power-bi-creating-reports-and-dashboards-of-vaccination-details-and-36841e70d118)</li>
 </ol>
-[Introduction to Web Scrapping Using Python with Beautiful Soup] (https://medium.com/python-in-plain-english/introduction-to-web-scrapping-using-python-7a65c204b)
