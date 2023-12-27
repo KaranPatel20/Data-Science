@@ -14,3 +14,4 @@
   <li>[How to Predict the Gender and Age Using OpenCV in Python](https://medium.com/python-in-plain-english/data-science-series-gender-and-age-prediction-61098d8e8377)</li>
   <li>[Visualising COVID-19 Data Using Power BI](https://medium.com/@karanpatel20/visualising-covid-19-data-using-power-bi-creating-reports-and-dashboards-of-vaccination-details-and-36841e70d118)</li>
 </ol>
+[Introduction to Web Scrapping Using Python with Beautiful Soup] (https://medium.com/python-in-plain-english/introduction-to-web-scrapping-using-python-7a65c204b)
